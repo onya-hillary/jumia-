@@ -830,6 +830,7 @@ body::before {
 ========================================== */
 
 .letter-section {
+    }
     opacity: 0;
 
     transform: translateY(40px);
@@ -1750,5 +1751,4 @@ body::before {
     .spotify-button {
         width: 80%;
     }
-}
 }
