@@ -828,9 +828,8 @@ body::before {
 /* ==========================================
    VINTAGE LETTER REVEAL
 ========================================== */
-
+}
 .letter-section {
-    }
     opacity: 0;
 
     transform: translateY(40px);
