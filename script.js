@@ -28,7 +28,7 @@ function openLetter() {
             block: "start"
         });
 
-    }, 800);
+    }, 1500);
 }
 
 const memories = [
